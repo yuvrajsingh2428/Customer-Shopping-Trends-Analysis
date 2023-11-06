@@ -1,5 +1,4 @@
-# Customer Shopping Trends Analysis
-
+## Customer Shopping Trend Analysis
 ![Customer Shopping Trends Analysis](https://your-image-link-here.com)
 
 ## Table of Contents
